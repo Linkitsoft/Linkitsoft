@@ -1,9 +1,8 @@
 # Linkitsoft
 <div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/sindresorhus/css-in-readme-like-wat/main/readme.md">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-	- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+	<svg height="210" width="500">
+  <polygon points="200,10 250,190 160,210" style="fill:lime;stroke:purple;stroke-width:1" />
+  Sorry, your browser does not support inline SVG.
+</svg>
+
 </div>
